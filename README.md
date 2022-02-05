@@ -8,7 +8,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-o-T-e-r&layout=compact&exclude_repo=J-o-T-e-r.github.io&theme=react" alt="JoTer" />
 </div><br>
 <div align=right>
-<img  src="https://github-readme-stats.vercel.app/api?username=J-o-T-e-r&show_icons=true&theme=react" alt="JoTer" /><img align="center" src="https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/img.png" alt="JoTer" width="176.67" height="248" />
+<img  src="https://github-readme-stats.vercel.app/api?username=J-o-T-e-r&show_icons=true&theme=react" alt="JoTer" /><img align="center" src="https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/img.png" alt="JoTer" width="176" height="248" />
 </div>
 
 <!--
